@@ -1,0 +1,5 @@
+Employee{name='Sara', email='sara@gmail.com', age=30, salary=55000}
+Employee{name='Mohammed', email='Mohammed@gmail.com', age=40, salary=80000}
+Employee{name='Mosa', email='Mosa@gmail.com', age=24, salary=18000}
+Employee{name='Shatha', email='Shatha@gmail.com', age=23, salary=20000}
+Employee{name='Nora', email='Nora@gmail.com', age=23, salary=20000}
